@@ -21,6 +21,12 @@ cdコマンドで階層に移動
 コマンド（git status）
 コマンド（git rm .DS_Store）
 コマンド（git status）
-コマンド（git commit -m "aiueo追加"）
+コマンド（git commit -m "メッセージ"）
 コマンド（git push）
 githubのユーザーネームを入力し、パスワードを入力する。
+
+次回からのアップロードは
+mdファイルの編集保存後に
+コマンド（git add .）
+コマンド（git commit -m "メッセージ"）
+でOK!!
